@@ -7,7 +7,7 @@ Les commandes React-Native sont nécessaire pour lancer rapidement l'application
 
 Voir le lien "Getting started" de React Native pour l'installation de l'environnement. 
 
-https://facebook.github.io/react-native/docs/getting-started.html
+<https://facebook.github.io/react-native/docs/getting-started.html>
 
 ## Variables utilisateur : ## 
 ```
@@ -22,6 +22,9 @@ PATH => C:\Program Files\nodejs\;
         C:\Users\<username>\AppData\Local\Android\sdk\tools;
         %JAVA_HOME%/lib
 ```
+
+## Erreurs communes ##
+
 Pour l'erreur suivante concernant le build de l'application : 
 
 " Could not get batchedbridge make sure your bundle is packaged properly "
