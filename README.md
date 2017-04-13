@@ -9,7 +9,7 @@ Voir le lien "Getting started" de React Native pour l'installation de l'environn
 
 <https://facebook.github.io/react-native/docs/getting-started.html>
 
-## Variables utilisateur : ## 
+## Variables utilisateur ## 
 ```
 ANDROID_HOME => C:\Users\<username>\AppData\Local\Android\sdk
 PATH => C:\Users\<username>\AppData\Roaming\npm
