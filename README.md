@@ -27,7 +27,7 @@ Pour l'erreur suivante concernant le build de l'application :
 " Could not get batchedbridge make sure your bundle is packaged properly "
 
 Méthode 1 ( Version Android >= 5.0 ) :
-Utiliser la commande : adb reverse tcp:8081 tcp:8081
+Utiliser la commande : ```adb reverse tcp:8081 tcp:8081```
 
 Méthode 2 ( Version Android < 5.0 ) :
 Utiliser la commande suivante depuis la racine de l'application : 
